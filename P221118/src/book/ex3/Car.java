@@ -1,4 +1,4 @@
-package ex3;
+package book.ex3;
 
 public class Car {
 //	Tire frontLeftTire = new Tire("앞왼쪽", 6);

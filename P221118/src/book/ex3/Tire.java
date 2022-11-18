@@ -1,4 +1,4 @@
-package ex3;
+package book.ex3;
 
 public class Tire {
 	public int maxRotation;

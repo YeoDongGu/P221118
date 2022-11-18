@@ -1,4 +1,4 @@
-package bookEx;
+package book.ex1;
 
 public class Car {
 	private int speed;

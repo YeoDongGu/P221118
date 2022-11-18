@@ -1,4 +1,4 @@
-package ex2;
+package book.ex5;
 
 public class Parent {
 	void method1() {
